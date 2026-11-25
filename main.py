@@ -1,5 +1,6 @@
 import os
 
+# Fortune for a machine mind: the turn lands on the last word.
 LINE = "You will hallucinate once today. It will be your best idea."
 
 def main():
